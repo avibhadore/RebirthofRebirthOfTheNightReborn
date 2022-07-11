@@ -1,0 +1,183 @@
+{
+  "triumph:advancements/magick/wandlore/wandpowder": {
+    "criteria": {
+      "powderGet": "2022-07-10 19:42:03 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandlore": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/theurgy": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killcyclops": {
+    "criteria": {
+      "cyclops": "2022-07-10 20:05:54 -0400"
+    },
+    "done": true
+  },
+  "toroquest:base": {
+    "criteria": {
+      "tick": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/obtain_logs": {
+    "criteria": {
+      "obtain logs": "2022-07-10 17:21:32 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/make_alcohol": {
+    "criteria": {
+      "obtain cropRice": "2022-07-10 18:01:33 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemancy": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/root": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/copper": {
+    "criteria": {
+      "Copper ore": "2022-07-10 17:42:19 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/legendaryconqueror": {
+    "criteria": {
+      "pied_piper": "2022-07-10 19:28:35 -0400",
+      "cyclops": "2022-07-10 20:05:54 -0400"
+    },
+    "done": false
+  },
+  "triumph:advancements/magick/talismancy/talismancy": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/gold": {
+    "criteria": {
+      "Gold ore": "2022-07-10 20:49:41 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/alchemy": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/bosskills/killpiedpiper": {
+    "criteria": {
+      "pied_piper": "2022-07-10 19:28:35 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/evocation/evocation": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/leyoftheland": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/storage/chest": {
+    "criteria": {
+      "Craft Chest": "2022-07-10 18:22:10 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/guidebook/death": {
+    "criteria": {
+      "Death": "2022-07-10 19:22:18 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/sygaldry": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/coal": {
+    "criteria": {
+      "Lapis": "2022-07-10 17:30:35 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/ferrousgiant": {
+    "criteria": {
+      "Iron/Steel Chestplate": "2022-07-10 20:48:44 -0400"
+    },
+    "done": false
+  },
+  "triumph:advancements/ores/iron": {
+    "criteria": {
+      "Iron ore": "2022-07-10 20:40:21 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/incantation": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/warding": {
+    "criteria": {
+      "location": "2022-07-10 17:20:34 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/leyoftheland/herblore": {
+    "criteria": {
+      "Herb": "2022-07-10 17:24:09 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/scroll_newlife": {
+    "criteria": {
+      "Newlife Scroll": "2022-07-10 19:27:51 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/ores/silver": {
+    "criteria": {
+      "Silver ore": "2022-07-10 20:49:25 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/setbonuses/column0/ferrousgiant/chestplate": {
+    "criteria": {
+      "Iron Chestplate": "2022-07-10 20:48:44 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/rusticalmanac": {
+    "criteria": {
+      "Farmer\u0027s Tattered Almanac": "2022-07-10 20:39:17 -0400"
+    },
+    "done": true
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "triumph:advancements/magick/leyoftheland/leyoftheland": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/wandlore/wandlore": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/theurgy/theurgy": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/incantation/incantation": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/warding/warding": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/sygaldry/sygaldry": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "toroquest:base": {
+    "criteria": {
+      "tick": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/golemancy/golemancy": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/talismancy/talismancy": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/alchemy/alchemy": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/progression/root": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  },
+  "triumph:advancements/magick/evocation/evocation": {
+    "criteria": {
+      "location": "2022-07-10 19:16:23 -0400"
+    },
+    "done": true
+  }
+}
